@@ -8,7 +8,7 @@ node_modules/
 
 # Production
 /build
-/dist
+# /dist - commented out to allow GitHub Pages deployment from main branch
 /.vite
 
 # Misc
